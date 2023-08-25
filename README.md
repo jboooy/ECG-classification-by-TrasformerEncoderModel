@@ -4,4 +4,4 @@ This is a problem of classifying electrocardiogram (ECG) sequence data into five
 
 While successfully achieving high classification accuracy, the predictive accuracy for classes with fewer instances is compromised due to significant imbalances within the dataset.
 
-Datasets used for training and Evaluation is in  https://www.kaggle.com/datasets/shayanfazeli/heartbeat
+Datasets used for training and Evaluation are in  https://www.kaggle.com/datasets/shayanfazeli/heartbeat
